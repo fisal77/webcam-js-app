@@ -1,4 +1,4 @@
-# Webcam Easy JS
+# Webcam Easy JS شرح طريقة تثبيت وتشغيل
 This is a javascript library for accessing webcam stream and taking photos.
 
 You can easily add it as a module to your own app.
